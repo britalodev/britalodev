@@ -6,6 +6,7 @@ Sou Developer Java :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **CI&T**
  <br/> :computer: &nbsp; Minha stack: Java, MySQL, Spring FrameWork
+ <br/> 📚 &nbsp; Estudando: Vue.JS , React Native, NodeJs
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games PoE, LoL e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ÍtaloPereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italopbarbosa/)](https://www.linkedin.com/in/italopbarbosa/) 
 | 
