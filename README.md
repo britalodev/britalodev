@@ -1,16 +1,12 @@
-### Hi there 👋
+# Ítalo P. Barbosa
 
-<!--
-**britalodev/britalodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas utilizando a programação.
+Sou Developer Java :computer:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :rocket:  &nbsp; Estou trabalhando na **CI&T**
+ <br/> :computer: &nbsp; Minha stack: Java, MySQL, Spring FrameWork
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games PoE, LoL e seriados no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ÍtaloPereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italopbarbosa/)](https://www.linkedin.com/in/italopbarbosa/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-britalodev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:britalodev@gmail.com)](mailto:britalodev@gmail.com)
